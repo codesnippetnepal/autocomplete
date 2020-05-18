@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f3aa92a-ff9e-4819-ac95-d66f8fb182f0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutocompleteController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AutocompleteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+                <marker date="1589784814089" expanded="true" signature="152:2205" ph="{...}" />
+                <marker date="1589784814089" expanded="true" signature="381:973" ph="{...}" />
+                <marker date="1589784814089" expanded="true" signature="670:702" ph="..." />
+                <marker date="1589784814089" expanded="true" signature="744:898" ph="..." />
+                <marker date="1589784814089" expanded="true" signature="823:834" ph="..." />
+                <marker date="1589784814089" expanded="true" signature="823:853" ph="..." />
+                <marker date="1589784814089" expanded="true" signature="982:1086" ph=" Show the form for creating a new resource. ..." />
+                <marker date="1589784814089" expanded="true" signature="1117:1140" ph="{...}" />
+                <marker date="1589784814089" expanded="true" signature="1149:1302" ph=" Store a newly created resource in storage. ..." />
+                <marker date="1589784814089" expanded="true" signature="1348:1371" ph="{...}" />
+                <marker date="1589784814089" expanded="true" signature="1380:1496" ph=" Display the specified resource. ..." />
+                <marker date="1589784814089" expanded="true" signature="1528:1551" ph="{...}" />
+                <marker date="1589784814089" expanded="true" signature="1560:1694" ph=" Show the form for editing the specified resource. ..." />
+                <marker date="1589784814089" expanded="true" signature="1726:1749" ph="{...}" />
+                <marker date="1589784814089" expanded="true" signature="1758:1933" ph=" Update the specified resource in storage. ..." />
+                <marker date="1589784814089" expanded="true" signature="1985:2008" ph="{...}" />
+                <marker date="1589784814089" expanded="true" signature="2017:2145" ph=" Remove the specified resource from storage. ..." />
+                <marker date="1589784814089" expanded="true" signature="2180:2203" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="homepage.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/homepage.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="78" column="21" lean-forward="true" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>autocompletedb</find>
+      <find>country_name</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/country.txt" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AutocompleteController.php" />
+        <option value="$PROJECT_DIR$/resources/views/homepage.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="723" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="autocomplete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autocomplete" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="autocomplete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autocomplete" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="autocomplete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autocomplete" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="autocomplete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autocomplete" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="autocomplete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autocomplete" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f3aa92a-ff9e-4819-ac95-d66f8fb182f0" name="Default" comment="" />
+      <created>1589635112089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589635112089</updated>
+      <workItem from="1589635114304" duration="3021000" />
+      <workItem from="1589645952246" duration="2263000" />
+      <workItem from="1589779572003" duration="3505000" />
+      <workItem from="1589787172382" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8868000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="723" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AutocompleteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+            <marker date="1589784814089" expanded="true" signature="152:2205" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="381:973" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="670:702" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="744:898" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="823:834" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="823:853" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="982:1086" ph=" Show the form for creating a new resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1117:1140" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1149:1302" ph=" Store a newly created resource in storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="1348:1371" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1380:1496" ph=" Display the specified resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1528:1551" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1560:1694" ph=" Show the form for editing the specified resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1726:1749" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1758:1933" ph=" Update the specified resource in storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="1985:2008" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="2017:2145" ph=" Remove the specified resource from storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="2180:2203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/homepage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="44" lean-forward="false" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AutocompleteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+            <marker date="1589784814089" expanded="true" signature="152:2205" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="381:973" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="670:702" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="744:898" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="823:834" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="823:853" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="982:1086" ph=" Show the form for creating a new resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1117:1140" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1149:1302" ph=" Store a newly created resource in storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="1348:1371" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1380:1496" ph=" Display the specified resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1528:1551" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1560:1694" ph=" Show the form for editing the specified resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1726:1749" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1758:1933" ph=" Update the specified resource in storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="1985:2008" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="2017:2145" ph=" Remove the specified resource from storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="2180:2203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/homepage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="43" lean-forward="false" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/homepage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AutocompleteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+            <marker date="1589784814089" expanded="true" signature="152:2205" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="381:973" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="670:702" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="744:898" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="823:834" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="823:853" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="982:1086" ph=" Show the form for creating a new resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1117:1140" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1149:1302" ph=" Store a newly created resource in storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="1348:1371" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1380:1496" ph=" Display the specified resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1528:1551" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1560:1694" ph=" Show the form for editing the specified resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1726:1749" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1758:1933" ph=" Update the specified resource in storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="1985:2008" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="2017:2145" ph=" Remove the specified resource from storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="2180:2203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country.txt" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AutocompleteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+            <marker date="1589784814089" expanded="true" signature="152:2205" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="381:973" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="670:702" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="744:898" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="823:834" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="823:853" ph="..." />
+            <marker date="1589784814089" expanded="true" signature="982:1086" ph=" Show the form for creating a new resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1117:1140" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1149:1302" ph=" Store a newly created resource in storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="1348:1371" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1380:1496" ph=" Display the specified resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1528:1551" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1560:1694" ph=" Show the form for editing the specified resource. ..." />
+            <marker date="1589784814089" expanded="true" signature="1726:1749" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="1758:1933" ph=" Update the specified resource in storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="1985:2008" ph="{...}" />
+            <marker date="1589784814089" expanded="true" signature="2017:2145" ph=" Remove the specified resource from storage. ..." />
+            <marker date="1589784814089" expanded="true" signature="2180:2203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/homepage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="78" column="21" lean-forward="true" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
